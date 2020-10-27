@@ -1,5 +1,5 @@
 #######################################################################
-#   Class: Detector (detector.py)
+#   Class: Detector (Detector.py)
 #
 #   Author: Supper Balint
 #   Date: 2020.10.26
