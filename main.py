@@ -4,7 +4,7 @@
 #   Author: Supper Balint
 #   Date: 2020.10.26
 #
-#   Main file which controls all the all the objects instanciated.
+#   Main file which controls all the objects instanciated.
 #   Entry point is defined in this file.
 #######################################################################
 
