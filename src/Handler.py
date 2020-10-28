@@ -10,3 +10,7 @@
 #   These subclasses send the logging outputs to corresponding 
 #   destinations, like sys.stdout or a disk file.
 #######################################################################
+
+class Handler(object):
+    def __init__(self):
+        raise NotImplementedError

@@ -8,3 +8,7 @@
 #   string format that lists out the attributes that the output should
 #   contain.
 #######################################################################
+
+class Formatter(object):
+    def __init__(self):
+        raise NotImplementedError

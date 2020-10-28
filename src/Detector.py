@@ -8,3 +8,7 @@
 #   trained to classify surgical related objects. The class purpose,
 #   is to provide object detection for the object tracker class.
 #######################################################################
+
+class Detector(object):
+    def __init__(self):
+        raise NotImplementedError
