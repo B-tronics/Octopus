@@ -8,14 +8,13 @@
 #   Entry point is defined in this file.
 #######################################################################
 from helpers import logger
+from helpers import detector
 import logging
 
 # instantiate logger
 log = logging.getLogger(__name__)
 
 def main():
-
-	log.info("This is a log message")
 
 if __name__ == '__main__':
     main()
